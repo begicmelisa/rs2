@@ -1,0 +1,47 @@
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnici.resources
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisniciDetalji.resources
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\Flurl.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\Flurl.xml
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnici.resources
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisniciDetalji.resources
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmProizvodi.resources

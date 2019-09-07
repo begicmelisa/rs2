@@ -1,0 +1,18 @@
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csproj.CoreCompileInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csproj.CoreCompileInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache

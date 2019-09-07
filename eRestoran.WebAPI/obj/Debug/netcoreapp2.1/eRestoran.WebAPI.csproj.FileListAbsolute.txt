@@ -1,0 +1,34 @@
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\Users\MelisaBegić\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\Users\MelisaBegić\source\repos\eRestoran - Copy\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
